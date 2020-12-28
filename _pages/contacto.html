@@ -1,0 +1,45 @@
+---
+layout: page
+title: Contacto
+permalink: /contacto/
+description: Contacta con nosotros.
+---
+
+<div class="row">
+  <div class="col-md-12">
+    <h2 class="double-u">¿Dónde estamos?</h2>
+    <p><small>Puedes localizarnos de varias maneras, es muy sencillo.</small></p>
+    <ul>
+    <li><p><small><i class="fa fa-phone fa"></i> <a href="tel:{{site.phone}}"> {{site.phone}}</a> en horario de atención de Martes a Viernes de 9:30 a 13:00 h.</small></p></li>
+    <li><p><small><i class="fa fa-envelope fa"></i> <a href="mailto:{{site.email}}"> {{site.email}}</a></small></p></li>
+    <li><p><small><i class="fa fa-location-arrow fa"></i> Carretera de Madrid a Burgos, Km.14 28108 Alcobendas, Madrid</small></p></li>
+    </ul>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-6">
+    <div class="map">
+      <iframe
+        src="https://maps.google.com/?ll=40.5207039,-3.6534515&z=17&t=m&output=embed"
+        frameborder="0"
+        allowfullscreen=""
+      ></iframe>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <!-- <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST"> -->
+    <form class="wj-contact" action="//formspree.io/info@clubsuizomadrid.org" method="POST">
+      <input type="email" name="email" placeholder="Your Email Address" />
+      <textarea type="text" name="content" rows="6" placeholder="Message"></textarea>
+      <input type="hidden" name="_next" value="<REDIRECTION LINK> " />
+      <input type="hidden" name="_subject" value="New Contact Form Submission"/>
+      <input type="text" name="_gotcha" style="display:none" />
+      <input class="btn" type="submit" value="Enviar" />
+    </form>
+  </div>
+</div>
+
+<br />
+<br />
+
+

@@ -1,0 +1,26 @@
+- name: Cheshire
+  image: /assets/images/patrocinadores/cheshire-county-hygiene-services.svg
+
+- name: Crofts
+  image: /assets/images/patrocinadores/crofts-accountants.svg
+  
+- name: Fast Banana
+  image: /assets/images/patrocinadores/fast-banana.svg
+  
+- name: Space Cube
+  image: /assets/images/patrocinadores/space-cube.svg
+  
+- name: Auto Speed
+  image: /assets/images/patrocinadores/auto-speed.svg
+  
+- name: Yoga Baby
+  image: /assets/images/patrocinadores/yoga-baby.svg
+
+- name: Zurich Insurance Group
+  image: /assets/images/patrocinadores/Zurich_Insurance_Group_logo.svg
+
+- name: Swatch Group
+  image: /assets/images/patrocinadores/Swatch_Logo.svg
+
+- name: Good Reno
+  image: /assets/images/patrocinadores/good_reno.png

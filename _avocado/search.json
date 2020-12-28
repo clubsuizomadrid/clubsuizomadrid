@@ -1,0 +1,49 @@
+[
+  
+    {
+      "category" : "aniversario",
+      "title"    : "120 Años contigo",
+      "description": "En 2021 cumplimos 120 años… Feliz Aniversario Club Suizo :)Sintoniza con noso...",
+      "content": "En 2021 cumplimos 120 años… Feliz Aniversario Club Suizo :)Sintoniza con noso...",
+      "url"      : "/blog/aniversario-120/",
+      "image"    : "/assets/images/celebracion-120-aniversario.png",
+      "author"   : "Enrique"
+    } 
+    ,
+  
+    {
+      "category" : "nikolaus",
+      "title"    : "Visita de San Nicolás",
+      "description": "Queridos niños y niñas del Club Suizo:Este año me resulta imposible visitaros...",
+      "content": "Queridos niños y niñas del Club Suizo:Este año me resulta imposible visitaros...",
+      "url"      : "/blog/sankt-nikolaus/",
+      "image"    : "/assets/images/nikolaus/202012-nikolaus.jpeg",
+      "author"   : "Enrique"
+    } 
+    ,
+  
+    {
+      "category" : "adas",
+      "title"    : "Mercadillo benéfico Navideño de la Asociación de Damas Suizas",
+      "description": "Un año más y gracias a la “Asociación de Damas Suizas”, el pasado sádado 28 d...",
+      "content": "Un año más y gracias a la “Asociación de Damas Suizas”, el pasado sádado 28 d...",
+      "url"      : "/blog/adas-mercadillo/",
+      "image"    : "/assets/images/adas/20201128-ADASmercadillo.jpeg",
+      "author"   : "Enrique"
+    } 
+    ,
+  
+    {
+      "category" : "halloween",
+      "title"    : "Halloween Party",
+      "description": "Pásate por el club el próximo sábado y vivirás una experiencia terrorífica… :)",
+      "content": "Pásate por el club el próximo sábado y vivirás una experiencia terrorífica… :)",
+      "url"      : "/blog/halloween-party/",
+      "image"    : "/assets/images/Jack-o-Lantern.jpg",
+      "author"   : "enrique"
+    } 
+    
+  
+]
+
+
