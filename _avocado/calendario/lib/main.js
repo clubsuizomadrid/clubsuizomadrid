@@ -1709,7 +1709,7 @@ var FullCalendar = (function (exports) {
         timeZoneParam: 'timeZone',
         timeZone: 'local',
         locales: [],
-        locale: '',
+        locale: 'es',
         themeSystem: 'standard',
         dragRevertDuration: 500,
         dragScroll: true,
@@ -4058,28 +4058,28 @@ var FullCalendar = (function (exports) {
     var globalLocales = [];
 
     var RAW_EN_LOCALE = {
-        code: 'en',
+        code: 'es',
         week: {
-            dow: 0,
+            dow: 1,
             doy: 4,
         },
         direction: 'ltr',
         buttonText: {
-            prev: 'prev',
-            next: 'next',
+            prev: 'Ant',
+            next: 'Sig',
             prevYear: 'prev year',
             nextYear: 'next year',
             year: 'year',
-            today: 'today',
-            month: 'month',
-            week: 'week',
-            day: 'day',
-            list: 'list',
+            today: 'Hoy',
+            month: 'Mes',
+            week: 'Semana',
+            day: 'Día',
+            list: 'Agenda',
         },
-        weekText: 'W',
-        allDayText: 'all-day',
-        moreLinkText: 'more',
-        noEventsText: 'No events to display',
+        weekText: 'Sm',
+        allDayText: 'Todo el día',
+        moreLinkText: 'más',
+        noEventsText: 'No hay eventos para mostrar',
     };
     function organizeRawLocales(explicitRawLocales) {
         var defaultCode = explicitRawLocales.length > 0 ? explicitRawLocales[0].code : 'en';
