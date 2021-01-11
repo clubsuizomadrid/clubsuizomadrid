@@ -1,0 +1,38 @@
+---
+layout: page
+title: Test Gallery
+permalink: /gallerytest/
+description: Test Gallery.
+galleries:
+  2021-01-10-gallery1:
+    title: clubsuizo-instalaciones-salon-2.jpg
+    gallery-best-image: clubsuizo-instalaciones-salon-2.jpg
+---
+
+
+<div>
+	<ul class="small-block-grid-4">
+        {% for gallery in page.galleries %}
+        <li>
+        <a href="{{ gallery['link'] }}">
+            <img class="gallery-best-image" src="{{ gallery['link'] }}/thumbs/front_{{ gallery['best_image'] }}">
+        </a>
+        <h3><a href="{{ gallery['link'] }}">{{ gallery["title"] }}</a></h3>
+        </li>
+        {% endfor %}
+	</ul>
+</div>
+
+
+{% for gallery in site.data['galleries'] %}
+  <div>
+    <a href="{{ gallery.url }}">{{ gallery.name }}</a>
+    <span>{{ gallery.date }}</span>
+    {% if gallery.excerpt %}
+    <p>
+      {{ gallery.excerpt }}
+    </p>
+    {% endif %}
+  </div>
+{% endfor %}
+

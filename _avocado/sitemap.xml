@@ -20,6 +20,9 @@
 <loc>http://localhost:4000/archivo/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/_pages/art_gallery_page/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/calendario/</loc>
 </url>
 <url>
@@ -30,6 +33,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/cookies/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/gallerytest/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/horarios/</loc>
