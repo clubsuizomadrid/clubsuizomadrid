@@ -1,6 +1,17 @@
 [
   
     {
+      "category" : "Filomena",
+      "title"    : "Temporal Filomena",
+      "description": "Este fin de semana ha venido la borrasca ‘Filomena’ a Madrid, y nuestro Club ...",
+      "content": "Este fin de semana ha venido la borrasca ‘Filomena’ a Madrid, y nuestro Club ...",
+      "url"      : "/blog/filomena/",
+      "image"    : "/assets/images/filomena-3.jpg",
+      "author"   : "Enrique"
+    } 
+    ,
+  
+    {
       "category" : "aniversario",
       "title"    : "120 Años contigo",
       "description": "En 2021 cumplimos 120 años… Feliz Aniversario Club Suizo :)Sintoniza con noso...",
