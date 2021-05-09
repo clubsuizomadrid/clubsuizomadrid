@@ -14,10 +14,10 @@
     - title: Normativa
       link: /normativa/
 
-- title: Inscripciones
-  link: '/inscripciones/'
+- title: Admisiones
+  link: '/admisiones/'
 
-- title: Eventos
+- title: Blog
   link: '/blog/'
 
 - title: Links
@@ -25,3 +25,6 @@
 
 - title: Contacto
   link: '/contacto/'
+
+#- title: Campamento
+ # link: '/campamento-verano/'

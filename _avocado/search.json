@@ -1,18 +1,62 @@
 [
   
     {
+      "category" : "120 aniversario",
+      "title"    : "Buscamos fotos del club",
+      "description": "¡Estamos de aniversario! 🎉🎉 120 años de la Asociación Helvetia.Buscamos fotos...",
+      "content": "¡Estamos de aniversario! 🎉🎉 120 años de la Asociación Helvetia.Buscamos fotos...",
+      "url"      : "/blog/buscamos-fotos-del-club/",
+      "image"    : "/assets/images/posts/2021-05-04-120Aniversario-buscamos-fotos-del-club.jpg",
+      "author"   : "Mercedes"
+    } 
+    ,
+  
+    {
+      "category" : "Día del libro",
+      "title"    : "Día del Libro",
+      "description": "Este fin de semana hemos celebrado el día del libro. Hemos leído cuentos, nue...",
+      "content": "Este fin de semana hemos celebrado el día del libro. Hemos leído cuentos, nue...",
+      "url"      : "/blog/dia-del-libro/",
+      "image"    : "/assets/images/posts/2021-04-26-dia-del-libro_1.jpg",
+      "author"   : "Mercedes"
+    } 
+    ,
+  
+    {
+      "category" : "Pascua",
+      "title"    : "Easter Bunny!",
+      "description": "El domingo de Pascua, tuvimos una visita sorpresa 🐇Los más pequeños fueron lo...",
+      "content": "El domingo de Pascua, tuvimos una visita sorpresa 🐇Los más pequeños fueron lo...",
+      "url"      : "/blog/easter-bunny/",
+      "image"    : "/assets/images/posts/20210408-easter-bunny.jpg",
+      "author"   : "Mercedes"
+    } 
+    ,
+  
+    {
+      "category" : "Primavera",
+      "title"    : "Llegó la Primavera",
+      "description": "Ayer estuvimos con algunos de nuestros pequeños asociados, plantando unas sem...",
+      "content": "Ayer estuvimos con algunos de nuestros pequeños asociados, plantando unas sem...",
+      "url"      : "/blog/primavera/",
+      "image"    : "/assets/images/posts/20210330-primavera_1.jpg",
+      "author"   : "Mercedes"
+    } 
+    ,
+  
+    {
       "category" : "Filomena",
       "title"    : "Temporal Filomena",
       "description": "Este fin de semana ha venido la borrasca ‘Filomena’ a Madrid, y nuestro Club ...",
       "content": "Este fin de semana ha venido la borrasca ‘Filomena’ a Madrid, y nuestro Club ...",
       "url"      : "/blog/filomena/",
-      "image"    : "/assets/images/filomena-3.jpg",
+      "image"    : "/assets/images/filomena/filomena-3.jpg",
       "author"   : "Enrique"
     } 
     ,
   
     {
-      "category" : "aniversario",
+      "category" : "120 aniversario",
       "title"    : "120 Años contigo",
       "description": "En 2021 cumplimos 120 años… Feliz Aniversario Club Suizo :)Sintoniza con noso...",
       "content": "En 2021 cumplimos 120 años… Feliz Aniversario Club Suizo :)Sintoniza con noso...",
@@ -28,8 +72,8 @@
       "description": "Queridos niños y niñas del Club Suizo:Este año me resulta imposible visitaros...",
       "content": "Queridos niños y niñas del Club Suizo:Este año me resulta imposible visitaros...",
       "url"      : "/blog/sankt-nikolaus/",
-      "image"    : "/assets/images/nikolaus/202012-nikolaus.jpeg",
-      "author"   : "Enrique"
+      "image"    : "/assets/images/posts/20201223-nikolaus-1.jpeg",
+      "author"   : "Mercedes"
     } 
     ,
   
@@ -51,7 +95,7 @@
       "content": "Pásate por el club el próximo sábado y vivirás una experiencia terrorífica… :)",
       "url"      : "/blog/halloween-party/",
       "image"    : "/assets/images/Jack-o-Lantern.jpg",
-      "author"   : "enrique"
+      "author"   : "Enrique"
     } 
     
   

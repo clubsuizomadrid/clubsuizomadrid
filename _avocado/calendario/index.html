@@ -30,7 +30,7 @@
 <meta property="og:url" content="http://localhost:4000/calendario/" />
 <meta property="og:site_name" content="Club Suizo Madrid" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/calendario/","headline":"Calendario","author":{"@type":"Person","name":"Enrique P"},"description":"Calendario de eventos.","@type":"WebPage","@context":"https://schema.org"}</script>
+{"description":"Calendario de eventos.","headline":"Calendario","url":"http://localhost:4000/calendario/","author":{"@type":"Person","name":"Enrique P"},"@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -128,11 +128,11 @@
 					
 				
 					
-					<a class="nav-item nav-link " href="/inscripciones/">Inscripciones</a>
+					<a class="nav-item nav-link " href="/admisiones/">Admisiones</a>
 					
 				
 					
-					<a class="nav-item nav-link " href="/blog/">Eventos</a>
+					<a class="nav-item nav-link " href="/blog/">Blog</a>
 					
 				
 					
@@ -176,86 +176,13 @@ Making any change will effect all the pages(not posts) -->
 			<div class="row">
 				<div class="col-md-12">
 					<article>
-						<link href='lib/main.css' rel='stylesheet' />
-<script src='lib/main.js'></script>
-<script>
-
-  document.addEventListener('DOMContentLoaded', function() {
-    var calendarEl = document.getElementById('calendar');
-
-    var calendar = new FullCalendar.Calendar(calendarEl, {
-
-      headerToolbar: {
-        left: 'prev,next today',
-        center: 'title',
-        right: 'dayGridMonth,listYear'
-      },
-
-      displayEventTime: false, // don't show the time column in list view
-
-      // THIS KEY WON'T WORK IN PRODUCTION!!!
-      // To make your own Google API key, follow the directions here:
-      // http://fullcalendar.io/docs/google_calendar/
-      //googleCalendarApiKey: 'AIzaSyDcnW6WejpTOCffshGDDb4neIrXVUA1EAE',
-      googleCalendarApiKey: 'AIzaSyC2qy8L-ErUEALy4Q8R64WXbLtkAhL0z7Y',
-
-      // US Holidays
-      //events: 'en.usa#holiday@group.v.calendar.google.com',
-      
-      //Festivos España
-      //events: 'es.spain#holiday@group.v.calendar.google.com',
-      
-      //Calendario Principal
-      events: 'clubsuizodigital@gmail.com',
-
-
-      eventClick: function(arg) {
-        // opens events in a popup window
-        window.open(arg.event.url, 'google-calendar-event', 'width=700,height=600');
-
-        arg.jsEvent.preventDefault() // don't navigate in main tab
-      },
-
-      loading: function(bool) {
-        document.getElementById('loading').style.display =
-          bool ? 'block' : 'none';
-      }
-
-    });
-
-    calendar.render();
-  });
-
-</script>
-<style>
-
-  body {
-    margin: 40px 10px;
-    padding: 0;
-    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-    font-size: 14px;
-  }
-
-  #loading {
-    display: none;
-    position: absolute;
-    top: 10px;
-    right: 10px;
-  }
-
-  #calendar {
-    max-width: 1100px;
-    margin: 0 auto;
-  }
-
-</style>
-
-
-  <div id='loading'>loading...</div>
-
-  <div id='calendar'></div>
-
-
+						<div class="row">
+  <div class="col-md-12 history">
+        
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FMadrid&amp;src=Y2x1YnN1aXpvZGlnaXRhbEBnbWFpbC5jb20&amp;color=%237CB342&amp;showTz=0&amp;showCalendars=0&amp;showTabs=1&amp;showPrint=0&amp;showNav=1&amp;showDate=1&amp;showTitle=0" style="border-width:0" width="1100" height="400" frameborder="0" scrolling="no"></iframe>
+          
+  </div>
+</div>
 
 					</article>
 
@@ -296,9 +223,9 @@ Making any change will effect all the pages(not posts) -->
           
           <li><a href="">Club</a></li>
           
-          <li><a href="/inscripciones/">Inscripciones</a></li>
+          <li><a href="/admisiones/">Admisiones</a></li>
           
-          <li><a href="/blog/">Eventos</a></li>
+          <li><a href="/blog/">Blog</a></li>
           
           <li><a href="/links/">Links</a></li>
           
@@ -310,13 +237,13 @@ Making any change will effect all the pages(not posts) -->
       <div class="col-md-3">
         <h3>Latest Posts</h3>
         
-        <li><a href="/blog/filomena/">Temporal Filomena</a></li>
+        <li><a href="/blog/buscamos-fotos-del-club/">Buscamos fotos del club</a></li>
         
-        <li><a href="/blog/aniversario-120/">120 Años contigo</a></li>
+        <li><a href="/blog/dia-del-libro/">Día del Libro</a></li>
         
-        <li><a href="/blog/sankt-nikolaus/">Visita de San Nicolás</a></li>
+        <li><a href="/blog/easter-bunny/">Easter Bunny!</a></li>
         
-        <li><a href="/blog/adas-mercadillo/">Mercadillo benéfico Navideño de la Asociación de Damas Suizas</a></li>
+        <li><a href="/blog/primavera/">Llegó la Primavera</a></li>
         
       </div>
       -->

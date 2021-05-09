@@ -3,7 +3,7 @@ title: Halloween Party
 image: /assets/images/Jack-o-Lantern.jpg
 description: Avocado is a bootstrap based, clean, minimal Jekyll theme.
 buy-link: https://rzp.io/l/avocado-theme
-author: enrique
+author: Enrique
 categories:
     - halloween
 layout: post

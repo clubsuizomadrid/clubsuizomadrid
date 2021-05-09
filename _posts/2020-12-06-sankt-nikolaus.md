@@ -1,7 +1,7 @@
 ---
 title: Visita de San Nicolás
-image: /assets/images/nikolaus/202012-nikolaus.jpeg
-author: Enrique
+image: /assets/images/posts/20201223-nikolaus-1.jpeg
+author: Mercedes
 categories:
     - nikolaus
 layout: post
@@ -17,4 +17,10 @@ San Nicolás
 
 <br>
 
-{% include image-gallery.html folder="/assets/images/nikolaus" %}
+
+![2](/assets/images/posts/20201223-nikolaus-2.jpg)
+![3](/assets/images/posts/20201223-nikolaus-3.jpg)
+![4](/assets/images/posts/20201223-nikolaus-4.jpg)
+
+
+<!-- {% include image-gallery.html folder="/assets/images/nikolaus" %} -->
