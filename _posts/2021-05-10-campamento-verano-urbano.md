@@ -10,6 +10,13 @@ layout: post
 Este año en el Club Suizo de Madrid en asociación con ["La Escalera"](http://laescalera.es), hemos organizado un _"Campamento de Verano Urbano"_, destinado a niños de 3 a 12 años 🎉🎉🎉
 
 <br>
+<div align="center">
+  <a href="/assets/pdf/campamento_club_suizo.pdf" download>
+    <button class="btn" style="background-color:red; color:white; width: 30%; height: 50px; text-decoration: none;"><i class="fa fa-download"></i>Más información</button>	
+  </a>
+</div>
+
+<br>
 
 ## Semanas
 * 28 de junio - 2 de julio
