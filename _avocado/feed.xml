@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-10T19:56:25+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club Suizo Madrid</title><subtitle>Página web de la Asociación Helvetia de Madrid.</subtitle><author><name>Enrique P</name></author><entry><title type="html">Campamento de Verano Urbano</title><link href="http://localhost:4000/blog/campamento-verano-urbano/" rel="alternate" type="text/html" title="Campamento de Verano Urbano" /><published>2021-05-10T00:00:00+02:00</published><updated>2021-05-10T00:00:00+02:00</updated><id>http://localhost:4000/blog/campamento-verano-urbano</id><content type="html" xml:base="http://localhost:4000/blog/campamento-verano-urbano/">&lt;p&gt;Este año en el Club Suizo de Madrid en asociación con &lt;a href=&quot;http://laescalera.es&quot;&gt;“La Escalera”&lt;/a&gt;, hemos organizado un &lt;em&gt;“Campamento de Verano Urbano”&lt;/em&gt;, destinado a niños de 3 a 12 años 🎉🎉🎉&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-10T20:56:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club Suizo Madrid</title><subtitle>Página web de la Asociación Helvetia de Madrid.</subtitle><author><name>Enrique P</name></author><entry><title type="html">Campamento de Verano Urbano</title><link href="http://localhost:4000/blog/campamento-verano-urbano/" rel="alternate" type="text/html" title="Campamento de Verano Urbano" /><published>2021-05-10T00:00:00+02:00</published><updated>2021-05-10T00:00:00+02:00</updated><id>http://localhost:4000/blog/campamento-verano-urbano</id><content type="html" xml:base="http://localhost:4000/blog/campamento-verano-urbano/">&lt;p&gt;Este año en el Club Suizo de Madrid en asociación con &lt;a href=&quot;http://laescalera.es&quot;&gt;“La Escalera”&lt;/a&gt;, hemos organizado un &lt;em&gt;“Campamento de Verano Urbano”&lt;/em&gt;, destinado a niños de 3 a 12 años 🎉🎉🎉&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div align=&quot;center&quot;&gt;
   &lt;a href=&quot;/assets/pdf/campamento_club_suizo.pdf&quot; download=&quot;&quot;&gt;
-    &lt;button class=&quot;btn&quot; style=&quot;background-color:red; color:white; width: 30%; height: 50px; text-decoration: none;&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;Más información&lt;/button&gt;	
+    &lt;button class=&quot;btn&quot; style=&quot;background-color:red; color:white; width: 40%; height: 50px; text-decoration: none;&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;Más información&lt;/button&gt;	
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -46,7 +46,7 @@
         &lt;/tr&gt;
         &lt;tr&gt;
           &lt;td&gt;Concepto&lt;/td&gt;
-          &lt;td&gt;campamento + nombreapellidosmenor&lt;/td&gt;
+          &lt;td&gt;campamento + semana + nombre menor&lt;/td&gt;
         &lt;/tr&gt;
       &lt;/tbody&gt;
     &lt;/table&gt;
@@ -74,7 +74,7 @@
 &lt;p&gt;Realizando el pago de la reserva de 50 € por semana, el solicitante acepta automáticamente las siguientes condiciones:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;El pago de la reserva conlleva asegurarse la plaza, sin embargo, para poder acceder al campamento se requiere también cumplimentar el presente formulario de inscripción, realizar el pago restante y enviar consentimiento firmado.&lt;/li&gt;
+  &lt;li&gt;El pago de la reserva conlleva asegurarse la plaza (siempre y cuando no se haya excedido el grupo máximo), sin embargo, para poder acceder al campamento se requiere también cumplimentar el presente formulario de inscripción, realizar el pago restante y enviar consentimiento firmado.&lt;/li&gt;
   &lt;li&gt;No se devuelve el importe de la reserva, salvo causa médica justificada comunicada antes del inicio de la semana.&lt;/li&gt;
   &lt;li&gt;En el caso de no poder realizarse el campamento por factores internos o externos a la empresa, se devolverá el importe proporcional de los días no disfrutados.&lt;/li&gt;
   &lt;li&gt;La empresa se reserva el derecho de suspender alguna semana del campamento por no cubrir un mínimo de 15 plazas.&lt;/li&gt;
@@ -89,7 +89,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;Rellenar un formulario por participante.&lt;/li&gt;
-  &lt;li&gt;Para la inscripción se deberá realizar un pago de la reserva de las semanas seleccionadas, por transferencia o via cash/tarjeta directamente en el Club Suizo.&lt;/li&gt;
+  &lt;li&gt;Para la inscripción se deberá realizar un pago de la reserva de las semanas seleccionadas, por transferencia o mediante efectivo/tarjeta directamente en el Club Suizo.&lt;/li&gt;
   &lt;li&gt;En caso de no formar grupo mínimo, no habrá campamento en las fechas solicitadas y se devolverá el concepto de reserva.&lt;/li&gt;
   &lt;li&gt;En caso de recibir la inscripción una vez excedido el grupo máximo, pasará a la lista de espera.&lt;/li&gt;
 &lt;/ul&gt;

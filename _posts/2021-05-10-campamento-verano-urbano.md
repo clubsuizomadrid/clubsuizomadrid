@@ -12,7 +12,7 @@ Este año en el Club Suizo de Madrid en asociación con ["La Escalera"](http://l
 <br>
 <div align="center">
   <a href="/assets/pdf/campamento_club_suizo.pdf" download>
-    <button class="btn" style="background-color:red; color:white; width: 30%; height: 50px; text-decoration: none;"><i class="fa fa-download"></i>Más información</button>	
+    <button class="btn" style="background-color:red; color:white; width: 40%; height: 50px; text-decoration: none;"><i class="fa fa-download"></i>Más información</button>	
   </a>
 </div>
 
@@ -39,7 +39,7 @@ Con un 10% de descuento para hermanos o al contratar dos o más semanas (no acum
      
    | Banco Sabadell (BIC BSABESBBXXX) | ES79 0081 0649 7600 0136 5940 |
    | Beneficiario | Asociación Helvetia Club Suizo de Madrid |
-   | Concepto | campamento + nombreapellidosmenor |
+   | Concepto | campamento + semana + nombre menor |
    
    <br>
 2. Una vez hayáis hecho el ingreso, debéis rellenar el [formulario de inscripción](#formulario-de-inscripci%C3%B3n).
@@ -56,7 +56,7 @@ Con un 10% de descuento para hermanos o al contratar dos o más semanas (no acum
 
 Realizando el pago de la reserva de 50 € por semana, el solicitante acepta automáticamente las siguientes condiciones:
 
-1. El pago de la reserva conlleva asegurarse la plaza, sin embargo, para poder acceder al campamento se requiere también cumplimentar el presente formulario de inscripción, realizar el pago restante y enviar consentimiento firmado.
+1. El pago de la reserva conlleva asegurarse la plaza (siempre y cuando no se haya excedido el grupo máximo), sin embargo, para poder acceder al campamento se requiere también cumplimentar el presente formulario de inscripción, realizar el pago restante y enviar consentimiento firmado.
 2. No se devuelve el importe de la reserva, salvo causa médica justificada comunicada antes del inicio de la semana.
 3. En el caso de no poder realizarse el campamento por factores internos o externos a la empresa, se devolverá el importe proporcional de los días no disfrutados.
 4. La empresa se reserva el derecho de suspender alguna semana del campamento por no cubrir un mínimo de 15 plazas.
@@ -70,7 +70,7 @@ Realizando el pago de la reserva de 50 € por semana, el solicitante acepta aut
 ## Formulario de Inscripción
      
 * Rellenar un formulario por participante.
-* Para la inscripción se deberá realizar un pago de la reserva de las semanas seleccionadas, por transferencia o via cash/tarjeta directamente en el Club Suizo.
+* Para la inscripción se deberá realizar un pago de la reserva de las semanas seleccionadas, por transferencia o mediante efectivo/tarjeta directamente en el Club Suizo.
 * En caso de no formar grupo mínimo, no habrá campamento en las fechas solicitadas y se devolverá el concepto de reserva.
 * En caso de recibir la inscripción una vez excedido el grupo máximo, pasará a la lista de espera.
 
