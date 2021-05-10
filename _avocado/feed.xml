@@ -1,16 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-10T09:26:12+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club Suizo Madrid</title><subtitle>Página web de la Asociación Helvetia de Madrid.</subtitle><author><name>Enrique P</name></author><entry><title type="html">Buscamos fotos del club</title><link href="http://localhost:4000/blog/buscamos-fotos-del-club/" rel="alternate" type="text/html" title="Buscamos fotos del club" /><published>2021-05-04T00:00:00+02:00</published><updated>2021-05-04T00:00:00+02:00</updated><id>http://localhost:4000/blog/buscamos-fotos-del-club</id><content type="html" xml:base="http://localhost:4000/blog/buscamos-fotos-del-club/">&lt;p&gt;¡Estamos de aniversario! 🎉🎉 120 años de la Asociación Helvetia.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-10T19:18:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club Suizo Madrid</title><subtitle>Página web de la Asociación Helvetia de Madrid.</subtitle><author><name>Enrique P</name></author><entry><title type="html">Campamento de Verano Urbano</title><link href="http://localhost:4000/blog/campamento-verano-urbano/" rel="alternate" type="text/html" title="Campamento de Verano Urbano" /><published>2021-05-10T00:00:00+02:00</published><updated>2021-05-10T00:00:00+02:00</updated><id>http://localhost:4000/blog/campamento-verano-urbano</id><content type="html" xml:base="http://localhost:4000/blog/campamento-verano-urbano/">&lt;p&gt;Este año en el Club Suizo de Madrid en asociación con &lt;a href=&quot;http://laescalera.es&quot;&gt;“La Escalera”&lt;/a&gt;, hemos organizado un &lt;em&gt;“Campamento de Verano Urbano”&lt;/em&gt;, destinado a niños de 3 a 12 años 🎉🎉🎉&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;semanas&quot;&gt;Semanas&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;28 de junio - 2 de julio&lt;/li&gt;
+  &lt;li&gt;5 de julio – 9 de julio&lt;/li&gt;
+  &lt;li&gt;12 de julio – 16 de julio&lt;/li&gt;
+  &lt;li&gt;19 de julio – 23 de julio&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;horarios&quot;&gt;Horarios&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;9:00 a 13:30 (sin comida) 120€ - (Socios 80€)&lt;/li&gt;
+  &lt;li&gt;9:00 a 17:00 (con comida) 180€ - (Socios 120€)&lt;/li&gt;
+  &lt;li&gt;Horario ampliado de mañana de 7:30 a 9:00 (11€ por semana)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Con un 10% de descuento para hermanos o al contratar dos o más semanas (no acumulables).&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;proceso-de-inscripción&quot;&gt;Proceso de Inscripción&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hacer un ingreso de 50€ por cada semana que queráis reservar, y enviar el justificante de pago a &lt;a href=&quot;mailto:clubsuizodigital@gmail.com&quot;&gt;clubsuizodigital@gmail.com&lt;/a&gt;&lt;/p&gt;
+
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Banco Sabadell (BIC BSABESBBXXX)&lt;/td&gt;
+          &lt;td&gt;ES79 0081 0649 7600 0136 5940&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Beneficiario&lt;/td&gt;
+          &lt;td&gt;Asociación Helvetia Club Suizo de Madrid&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Concepto&lt;/td&gt;
+          &lt;td&gt;campamento + nombreapellidosmenor&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Una vez hayáis hecho el ingreso, debéis rellenar el &lt;a href=&quot;#formulario-de-inscripci%C3%B3n&quot;&gt;formulario de inscripción&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Al menos siete (7) días antes del inicio del campamento:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Rellenar y firmar el consentimiento informado (está adjunto).&lt;/li&gt;
+      &lt;li&gt;Hacer un ingreso del concepto restante, es decir, descontando la reserva.&lt;br /&gt;
+&lt;b&gt;&lt;u&gt;Nota&lt;/u&gt;:&lt;/b&gt; Existe un 10% de descuento (no acumulable) por cada hermano/a, o segunda semana contratada.&lt;/li&gt;
+      &lt;li&gt;Enviar el consentimiento informado y justificante del segundo pago a &lt;a href=&quot;mailto:clubsuizodigital@gmail.com&quot;&gt;clubsuizodigital@gmail.com&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;información-legal&quot;&gt;Información Legal&lt;/h2&gt;
+
+&lt;p&gt;Realizando el pago de la reserva de 50 € por semana, el solicitante acepta automáticamente las siguientes condiciones:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;El pago de la reserva conlleva asegurarse la plaza, sin embargo, para poder acceder al campamento se requiere también cumplimentar el presente formulario de inscripción, realizar el pago restante y enviar consentimiento firmado.&lt;/li&gt;
+  &lt;li&gt;No se devuelve el importe de la reserva, salvo causa médica justificada comunicada antes del inicio de la semana.&lt;/li&gt;
+  &lt;li&gt;En el caso de no poder realizarse el campamento por factores internos o externos a la empresa, se devolverá el importe proporcional de los días no disfrutados.&lt;/li&gt;
+  &lt;li&gt;La empresa se reserva el derecho de suspender alguna semana del campamento por no cubrir un mínimo de 15 plazas.&lt;/li&gt;
+  &lt;li&gt;Los casos de falta grave de disciplina o incumplimiento de las normas del campamento se pondrán en conocimiento de los familiares. Si la actitud incorrecta fuera continuada, los responsables del Campamento La Escalera se reservan el derecho de finalizar la actividad anticipadamente conllevando la no devolución del importe del campamento.&lt;/li&gt;
+  &lt;li&gt;Se podrá denegar la entrada a aquellos participantes que por motivos higiénico-sanitarios, puedan suponer un riesgo para el resto de participantes. Si la situación que provoca la exclusión se resuelve, el participante será admitido inmediatamente. En este caso, dada la responsabilidad del participante, no se efectuará devolución de la semana en curso del campamento pero si de las siguientes.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;formulario-de-inscripción&quot;&gt;Formulario de Inscripción&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rellenar un formulario por participante.&lt;/li&gt;
+  &lt;li&gt;Para la inscripción se deberá realizar un pago de la reserva de las semanas seleccionadas, por transferencia o via cash/tarjeta directamente en el Club Suizo.&lt;/li&gt;
+  &lt;li&gt;En caso de no formar grupo mínimo, no habrá campamento en las fechas solicitadas y se devolverá el concepto de reserva.&lt;/li&gt;
+  &lt;li&gt;En caso de recibir la inscripción una vez excedido el grupo máximo, pasará a la lista de espera.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+  &lt;iframe src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdyhIOZg-L_1rae7zFoBl_0PcODQafKBCoxOBUknJ9BG6C08w/viewform?embedded=true&quot; width=&quot;640&quot; height=&quot;4793&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Cargando…&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name>Mercedes</name></author><summary type="html">Este año en el Club Suizo de Madrid en asociación con “La Escalera”, hemos organizado un “Campamento de Verano Urbano”, destinado a niños de 3 a 12 años 🎉🎉🎉</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/20210510-campamento-verano.png" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/20210510-campamento-verano.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Buscamos fotos del club</title><link href="http://localhost:4000/blog/buscamos-fotos-del-club/" rel="alternate" type="text/html" title="Buscamos fotos del club" /><published>2021-05-04T00:00:00+02:00</published><updated>2021-05-04T00:00:00+02:00</updated><id>http://localhost:4000/blog/buscamos-fotos-del-club</id><content type="html" xml:base="http://localhost:4000/blog/buscamos-fotos-del-club/">&lt;p&gt;¡Estamos de aniversario! 🎉🎉 120 años de la Asociación Helvetia.&lt;/p&gt;
 
 &lt;p&gt;Buscamos fotos 📸 que cuenten nuestra historia. Si tienes, y quieres compartirlas, mándanoslas a&lt;/p&gt;
 
 &lt;p&gt;&amp;gt;&amp;gt;&amp;gt; &lt;a href=&quot;mailto:clubsuizodigital@gmail.com&quot;&gt;clubsuizodigital@gmail.com&lt;/a&gt; &amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
-&lt;p&gt;Pronto habrá sorpresas 🎈&lt;/p&gt;</content><author><name>Mercedes</name></author><summary type="html">¡Estamos de aniversario! 🎉🎉 120 años de la Asociación Helvetia.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/2021-05-04-120Aniversario-buscamos-fotos-del-club.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/2021-05-04-120Aniversario-buscamos-fotos-del-club.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Día del Libro</title><link href="http://localhost:4000/blog/dia-del-libro/" rel="alternate" type="text/html" title="Día del Libro" /><published>2021-04-26T00:00:00+02:00</published><updated>2021-04-26T00:00:00+02:00</updated><id>http://localhost:4000/blog/dia-del-libro</id><content type="html" xml:base="http://localhost:4000/blog/dia-del-libro/">&lt;p&gt;Este fin de semana hemos celebrado el día del libro. Hemos leído cuentos, nuestra querida socia Ana Serra, leyó poesías de su libro de poesías e hicimos unas manualidad, todo ello, a pesar de la lluvia!!!&lt;/p&gt;
+&lt;p&gt;Pronto habrá sorpresas 🎈&lt;/p&gt;</content><author><name>Mercedes</name></author><summary type="html">¡Estamos de aniversario! 🎉🎉 120 años de la Asociación Helvetia.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/20210504-120Aniversario-buscamos-fotos-del-club.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/20210504-120Aniversario-buscamos-fotos-del-club.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Día del Libro</title><link href="http://localhost:4000/blog/dia-del-libro/" rel="alternate" type="text/html" title="Día del Libro" /><published>2021-04-26T00:00:00+02:00</published><updated>2021-04-26T00:00:00+02:00</updated><id>http://localhost:4000/blog/dia-del-libro</id><content type="html" xml:base="http://localhost:4000/blog/dia-del-libro/">&lt;p&gt;Este fin de semana hemos celebrado el día del libro. Hemos leído cuentos, nuestra querida socia Ana Serra, leyó poesías de su libro de poesías e hicimos unas manualidad, todo ello, a pesar de la lluvia!!!&lt;/p&gt;
 
 &lt;p&gt;Gracias &lt;a href=&quot;https://www.instagram.com/malfonso06/&quot;&gt;@malfonso06&lt;/a&gt; por ayudar con la organización. Pronto más actividades…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/2021-04-26-dia-del-libro_1.jpg&quot; alt=&quot;1&quot; /&gt;
-&lt;img src=&quot;/assets/images/posts/2021-04-26-dia-del-libro_2.jpg&quot; alt=&quot;2&quot; /&gt;
-&lt;img src=&quot;/assets/images/posts/2021-04-26-dia-del-libro_3.jpg&quot; alt=&quot;3&quot; /&gt;&lt;/p&gt;</content><author><name>Mercedes</name></author><summary type="html">Este fin de semana hemos celebrado el día del libro. Hemos leído cuentos, nuestra querida socia Ana Serra, leyó poesías de su libro de poesías e hicimos unas manualidad, todo ello, a pesar de la lluvia!!!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/2021-04-26-dia-del-libro_1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/2021-04-26-dia-del-libro_1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Easter Bunny!</title><link href="http://localhost:4000/blog/easter-bunny/" rel="alternate" type="text/html" title="Easter Bunny!" /><published>2021-04-08T00:00:00+02:00</published><updated>2021-04-08T00:00:00+02:00</updated><id>http://localhost:4000/blog/easter-bunny</id><content type="html" xml:base="http://localhost:4000/blog/easter-bunny/">&lt;p&gt;El domingo de Pascua, tuvimos una visita sorpresa 🐇&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/20210426-dia-del-libro_1.jpg&quot; alt=&quot;1&quot; /&gt;
+&lt;img src=&quot;/assets/images/posts/20210426-dia-del-libro_2.jpg&quot; alt=&quot;2&quot; /&gt;
+&lt;img src=&quot;/assets/images/posts/20210426-dia-del-libro_3.jpg&quot; alt=&quot;3&quot; /&gt;&lt;/p&gt;</content><author><name>Mercedes</name></author><summary type="html">Este fin de semana hemos celebrado el día del libro. Hemos leído cuentos, nuestra querida socia Ana Serra, leyó poesías de su libro de poesías e hicimos unas manualidad, todo ello, a pesar de la lluvia!!!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/20210426-dia-del-libro_1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/20210426-dia-del-libro_1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Easter Bunny!</title><link href="http://localhost:4000/blog/easter-bunny/" rel="alternate" type="text/html" title="Easter Bunny!" /><published>2021-04-08T00:00:00+02:00</published><updated>2021-04-08T00:00:00+02:00</updated><id>http://localhost:4000/blog/easter-bunny</id><content type="html" xml:base="http://localhost:4000/blog/easter-bunny/">&lt;p&gt;El domingo de Pascua, tuvimos una visita sorpresa 🐇&lt;/p&gt;
 
 &lt;p&gt;Los más pequeños fueron los que más lo disfrutaron. 🐰🥚🍫&lt;/p&gt;</content><author><name>Mercedes</name></author><summary type="html">El domingo de Pascua, tuvimos una visita sorpresa 🐇</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/20210408-easter-bunny.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/20210408-easter-bunny.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Llegó la Primavera</title><link href="http://localhost:4000/blog/primavera/" rel="alternate" type="text/html" title="Llegó la Primavera" /><published>2021-03-30T00:00:00+02:00</published><updated>2021-03-30T00:00:00+02:00</updated><id>http://localhost:4000/blog/primavera</id><content type="html" xml:base="http://localhost:4000/blog/primavera/">&lt;p&gt;Ayer estuvimos con algunos de nuestros pequeños asociados, plantando unas semillas aprovechando el buen tiempo.&lt;/p&gt;
 

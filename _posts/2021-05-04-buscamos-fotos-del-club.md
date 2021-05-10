@@ -1,6 +1,6 @@
 ---
 title: Buscamos fotos del club
-image: /assets/images/posts/2021-05-04-120Aniversario-buscamos-fotos-del-club.jpg
+image: /assets/images/posts/20210504-120Aniversario-buscamos-fotos-del-club.jpg
 author: Mercedes
 categories:
     - 120 aniversario

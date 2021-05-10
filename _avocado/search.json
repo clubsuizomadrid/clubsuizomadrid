@@ -1,12 +1,23 @@
 [
   
     {
+      "category" : "Campamento de Verano Urbano",
+      "title"    : "Campamento de Verano Urbano",
+      "description": "Este año en el Club Suizo de Madrid en asociación con “La Escalera”, hemos or...",
+      "content": "Este año en el Club Suizo de Madrid en asociación con “La Escalera”, hemos or...",
+      "url"      : "/blog/campamento-verano-urbano/",
+      "image"    : "/assets/images/posts/20210510-campamento-verano.png",
+      "author"   : "Mercedes"
+    } 
+    ,
+  
+    {
       "category" : "120 aniversario",
       "title"    : "Buscamos fotos del club",
       "description": "¡Estamos de aniversario! 🎉🎉 120 años de la Asociación Helvetia.Buscamos fotos...",
       "content": "¡Estamos de aniversario! 🎉🎉 120 años de la Asociación Helvetia.Buscamos fotos...",
       "url"      : "/blog/buscamos-fotos-del-club/",
-      "image"    : "/assets/images/posts/2021-05-04-120Aniversario-buscamos-fotos-del-club.jpg",
+      "image"    : "/assets/images/posts/20210504-120Aniversario-buscamos-fotos-del-club.jpg",
       "author"   : "Mercedes"
     } 
     ,
@@ -17,7 +28,7 @@
       "description": "Este fin de semana hemos celebrado el día del libro. Hemos leído cuentos, nue...",
       "content": "Este fin de semana hemos celebrado el día del libro. Hemos leído cuentos, nue...",
       "url"      : "/blog/dia-del-libro/",
-      "image"    : "/assets/images/posts/2021-04-26-dia-del-libro_1.jpg",
+      "image"    : "/assets/images/posts/20210426-dia-del-libro_1.jpg",
       "author"   : "Mercedes"
     } 
     ,
