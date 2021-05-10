@@ -12,7 +12,7 @@ Este año en el Club Suizo de Madrid en asociación con ["La Escalera"](http://l
 <br>
 <div align="center">
   <a href="/assets/pdf/campamento_club_suizo.pdf" download>
-    <button class="btn" style="background-color:red; color:white; width: 40%; height: 50px; text-decoration: none;"><i class="fa fa-download"></i>Más información</button>	
+    <button class="btn" style="background-color:red; color:white; width: 45%; height: 50px; text-decoration: none;"><i class="fa fa-download"></i>Más información</button>	
   </a>
 </div>
 
