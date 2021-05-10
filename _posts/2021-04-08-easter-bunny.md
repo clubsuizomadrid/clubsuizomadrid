@@ -1,6 +1,6 @@
 ---
 title: Easter Bunny!
-image: /assets/images/posts/20210408-easter-bunny.jpg
+image: /assets/images/posts/20210408-easter-bunny1.jpg
 author: Mercedes
 categories:
     - Pascua
