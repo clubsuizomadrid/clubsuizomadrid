@@ -8,7 +8,7 @@ layout: post
 ---
 
 
-El domingo de Pascua, tuvimos una visita sorpresa 🐇
+El domingo de Pascua tuvimos una visita sorpresa 🐇
 
 Los más pequeños fueron los que más lo disfrutaron. 🐰🥚🍫
 
