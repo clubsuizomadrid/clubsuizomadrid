@@ -11,6 +11,8 @@ El próximo sábado 29 de Mayo de 11:00 a 20:00, nuestras queridas ADAS celebrar
 
 Habrá ricas salchicas a la barbacoa y repostería suiza en la cafetería.
 
+Y para lo más deportistas... ¡torneo de pádel desde las 10:00!
+
 !Os esperamos!
 
 <br>
