@@ -1,6 +1,6 @@
 ---
 title: Flohmarkt
-image: /assets/images/posts/20210529-adas-rastrillo-solidario.jpeg
+image: /assets/images/posts/20210529-adas-rastrillo-solidario.jpg
 author: Paloma
 categories:
     - adas
@@ -18,7 +18,7 @@ Y para lo más deportistas... ¡torneo de pádel desde las 10:00!
 <br>
 
 <div align="center">
-    <img src="/assets/images/posts/20210529-adas-rastrillo-solidario.jpeg" alt="">
+    <img src="/assets/images/posts/20210529-adas-rastrillo-solidario.jpg" alt="">
 </div>
 
 <!-- <img width="300" height="300" class="team-image rounded-circle" src="/assets/images/00_Puesto_Doris_reducido.jpg" alt=""> -->
