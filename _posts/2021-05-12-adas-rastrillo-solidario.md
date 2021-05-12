@@ -14,7 +14,11 @@ Habrá ricas salchicas a la barbacoa y repostería suiza en la cafetería.
 !Os esperamos!
 
 <br>
+
+<div align="center">
 ![1](/assets/images/posts/20210529-adas-rastrillo-solidario.jpeg)
+</div>
+
 
 <!-- <img width="300" height="300" class="team-image rounded-circle" src="/assets/images/00_Puesto_Doris_reducido.jpg" alt=""> -->
 <!-- {% include image-gallery.html folder="/assets/images/adas" %} -->
