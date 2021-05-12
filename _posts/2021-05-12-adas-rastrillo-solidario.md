@@ -1,7 +1,7 @@
 ---
 title: Flohmarkt
 image: /assets/images/posts/20210529-adas-rastrillo-solidario.jpeg
-author: Enrique
+author: Paloma
 categories:
     - adas
 layout: post
