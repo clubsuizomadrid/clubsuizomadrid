@@ -1,6 +1,17 @@
 [
   
     {
+      "category" : "adas",
+      "title"    : "Flohmarkt",
+      "description": "El próximo sábado 29 de Mayo de 11:00 a 20:00, nuestras queridas ADAS celebra...",
+      "content": "El próximo sábado 29 de Mayo de 11:00 a 20:00, nuestras queridas ADAS celebra...",
+      "url"      : "/blog/adas-rastrillo-solidario/",
+      "image"    : "/assets/images/posts/20210529-adas-rastrillo-solidario.jpeg",
+      "author"   : "Enrique"
+    } 
+    ,
+  
+    {
       "category" : "Campamento de Verano Urbano",
       "title"    : "Campamento de Verano Urbano",
       "description": "Este año en el Club Suizo de Madrid en asociación con “La Escalera”, hemos or...",
