@@ -1,8 +1,3 @@
-- title: COLEGIO
-  category: Colegio Suizo Madrid (CSM)
-  image: /assets/images/portfolio/csm-logo-portfolio.png
-  link: https://colegiosuizomadrid.edu.es/
-
 - title: CLUB
   category: Asociación Helvetia Madrid
   image: /assets/images/portfolio/logoAH2.png
@@ -13,3 +8,8 @@
   category: El Chalet Suizo
   image: /assets/images/portfolio/logo-chalet-suizo.png
   link: http://www.elchaletsuizo.es/
+
+- title: COLEGIO
+  category: Colegio Suizo Madrid (CSM)
+  image: /assets/images/portfolio/csm-logo-portfolio.png
+  link: https://colegiosuizomadrid.edu.es/
