@@ -5,8 +5,8 @@
   dropdown:
     - title: ¿Quiénes somos?
       link: /quienes-somos/
-    - title: Horarios
-      link: /horarios/
+    - title: Horarios y Cuotas
+      link: /horarios-y-cuotas/
     - title: Calendario
       link: /calendario/
     - title: Instalaciones
