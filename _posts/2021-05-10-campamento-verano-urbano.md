@@ -45,7 +45,7 @@ Con un 10% de descuento para hermanos o al contratar dos o más semanas (no acum
 2. Una vez hayáis hecho el ingreso, debéis rellenar el [formulario de inscripción](#formulario-de-inscripci%C3%B3n).
      
 3. Al menos siete (7) días antes del inicio del campamento:
-   * Rellenar y firmar el consentimiento informado <a href="/assets/pdf/campamento_club_suizo.pdf" download>(descargar)</a>.
+   * Rellenar y firmar el consentimiento informado <a href="/assets/pdf/Consentimiento_informado.pdf" download>(descargar)</a>.
    * Hacer un ingreso del concepto restante, es decir, descontando la reserva.  
      <b><u>Nota</u>:</b> Existe un 10% de descuento (no acumulable) por cada hermano/a, o segunda semana contratada.
    * Enviar el consentimiento informado y justificante del segundo pago a [clubsuizodigital@gmail.com](mailto:clubsuizodigital@gmail.com)
