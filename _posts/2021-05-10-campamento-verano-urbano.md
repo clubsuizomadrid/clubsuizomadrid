@@ -28,10 +28,10 @@ Este año en el Club Suizo de Madrid en asociación con ["La Escalera"](http://l
 * 9:00 a 13:30 (sin comida) 120€ - (Socios 80€)
 * 9:00 a 17:00 (con comida) 180€ - (Socios 120€)
 * Horario ampliado de mañana de 7:30 a 9:00 (11€ por semana)
-
-Con un 10% de descuento para hermanos o al contratar dos o más semanas (no acumulables).
-
-Ejemplo sobre el precio de asociado, con jornada completa (120€):
+  
+Con un 10% de descuento para hermanos o al contratar dos o más semanas (no acumulables).  
+  
+Ejemplo sobre el precio de asociado, con jornada completa (120€):  
 ![1](/assets/images/posts/20210520-ejemplo-descuento.png)
 
 <br>
