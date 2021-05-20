@@ -30,7 +30,9 @@ Este año en el Club Suizo de Madrid en asociación con ["La Escalera"](http://l
 * Horario ampliado de mañana de 7:30 a 9:00 (11€ por semana)
 
 Con un 10% de descuento para hermanos o al contratar dos o más semanas (no acumulables).
-  
+
+![1](/assets/images/posts/20210520-ejemplo-descuento.png)
+
 <br>
 
 ## Proceso de Inscripción
