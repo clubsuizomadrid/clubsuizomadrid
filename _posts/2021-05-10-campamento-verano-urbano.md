@@ -31,6 +31,7 @@ Este año en el Club Suizo de Madrid en asociación con ["La Escalera"](http://l
 
 Con un 10% de descuento para hermanos o al contratar dos o más semanas (no acumulables).
 
+Ejemplo sobre el precio de asociado, con jornada completa (120€):
 ![1](/assets/images/posts/20210520-ejemplo-descuento.png)
 
 <br>
