@@ -547,7 +547,7 @@ Making any change will effect all the pages(not posts) -->
           <div class="row">
             <div class="col-md-6 col-sm-12">
               <label for="nombrepareja">Nombre</label>
-              <input type="text" class="form-control" placeholder="Nombre" id="nombrepareja">
+              <input name="nombrepareja" type="text" class="form-control" placeholder="Nombre">
               <label for="emailpareja">Email</label>
               <input name="emailpareja" type="email" class="form-control" placeholder="Email">
               <label for="dnipareja">DNI o Pasaporte</label>
@@ -557,7 +557,7 @@ Making any change will effect all the pages(not posts) -->
             </div>
             <div class="col-md-6 col-sm-12">
               <label for="apellidospareja">Apellidos</label>
-              <input type="text" class="form-control" placeholder="Apellidos" id="apellidospareja">
+              <input name="apellidospareja" type="text" class="form-control" placeholder="Apellidos">
               <label for="telefonopareja">Teléfono</label>
               <input name="telefonopareja" type="tel" class="form-control" placeholder="Teléfono">
               <label for="nacionalidadpareja">Nacionalidad</label> 
@@ -808,7 +808,7 @@ Making any change will effect all the pages(not posts) -->
                         <option value="Zimbabwe">Zimbabwe</option>
                       </select>
               <label for="sexopareja">Sexo</label>    
-              <select id="sexopareja" name="countrypareja" class="form-control">
+              <select id="sexopareja" name="sexopareja" class="form-control">
                 <option value="Masculino">Masculino</option>
                 <option value="Femenino">Femenino</option>
               </select>
@@ -844,7 +844,7 @@ Making any change will effect all the pages(not posts) -->
             </div>
             <div class="col-md-6 col-sm-12">
               <label for="apellidoshijo1">Apellidos</label>
-              <input type="text" class="form-control" placeholder="apellidoshijo1">
+              <input name="apellidoshijo1" type="text" class="form-control" placeholder="apellidoshijo1">
               <label for="sexohijo1">Sexo</label>    
               <select class="form-control" id="sexohijo1" name="sexohijo1">
                 <option value="Masculino">Masculino</option>
@@ -858,13 +858,13 @@ Making any change will effect all the pages(not posts) -->
           <div class="row">
             <div class="col-md-6 col-sm-12">
               <label for="nombrehijo2">Nombre</label>
-              <input type="text" class="form-control" placeholder="nombrehijo2">
+              <input name="nombrehijo2" type="text" class="form-control" placeholder="nombrehijo2">
               <label for="fechanacimientohijo2">Fecha de Nacimiento</label>
               <input name="fechanacimientohijo2" type="date" class="form-control" placeholder="Fecha de Nacimiento">
             </div>
             <div class="col-md-6 col-sm-12">
               <label for="apellidoshijo2">Apellidos</label>
-              <input type="text" class="form-control" placeholder="apellidoshijo2">
+              <input name="apellidoshijo2" type="text" class="form-control" placeholder="apellidoshijo2">
               <label for="sexohijo2">Sexo</label>    
               <select id="sexohijo2" name="sexohijo2" class="form-control">
                 <option value="Masculino">Masculino</option>
@@ -950,10 +950,10 @@ Making any change will effect all the pages(not posts) -->
           <br><br>
           <div class="row">
             <div class="col-md-12 col-sm-12">
-              <input type="checkbox" id="mailinfo" name="mailinfo" value="mailinfo">
-              <label for="mailinfo"> Deseo recibir información de eventos y actividades del Club Suizo de Madrid.</label><br><br>
-              <input type="checkbox" id="confirmation" name="confirmation" value="confirmation" required>
-              <label for="confirmation"> He leído y estoy de acuerdo con los estatutos, cuotas y <a href="../privacidad" target="_blank">política de protección de datos</a> del Club Suizo Madrid.</label><span style="color: red !important; display: inline; float: none;">*</span>
+              <input type="checkbox" id="acceptmailinfo" name="acceptmailinfo" value="acceptmailinfo">
+              <label for="acceptmailinfo"> Deseo recibir información de eventos y actividades del Club Suizo de Madrid.</label><br><br>
+              <input type="checkbox" id="acceptterms" name="acceptterms" value="acceptterms" required>
+              <label for="acceptterms"> He leído y estoy de acuerdo con los estatutos, cuotas y <a href="../privacidad" target="_blank">política de protección de datos</a> del Club Suizo Madrid.</label><span style="color: red !important; display: inline; float: none;">*</span>
             </div>
           </div>
         </div>
