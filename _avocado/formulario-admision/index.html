@@ -191,26 +191,26 @@ Making any change will effect all the pages(not posts) -->
             <!-- DATOS PERSONALES -->
             <div class="col-md-6 col-sm-6">
               <label for="nombre">Nombre</label>
-              <input name="nombre" type="text" class="form-control" placeholder="Nombre">
+              <input name="nombre" type="text" class="form-control" placeholder="Nombre" required>
               <label for="email">Email</label>
-              <input name="email" type="email" class="form-control" placeholder="Email">
+              <input name="email" type="email" class="form-control" placeholder="Email" required>
               <label for="dni">DNI o Pasaporte</label>
-              <input name="dni" type="text" class="form-control" placeholder="DNI o Pasaporte">
+              <input name="dni" type="text" class="form-control" placeholder="DNI o Pasaporte" required>
               <label for="fechanacimiento">Fecha de Nacimiento</label>
-              <input name="fechanacimiento" type="date" class="form-control" placeholder="Fecha de Nacimiento">
+              <input name="fechanacimiento" type="date" class="form-control" placeholder="Fecha de Nacimiento" required>
               <label for="domicilio">Domicilio</label>
-              <input name="domicilio" type="text" class="form-control" placeholder="Domicilio">
+              <input name="domicilio" type="text" class="form-control" placeholder="Domicilio" required>
               <label for="localidad">Localidad</label>
-              <input name="localidad" type="text" class="form-control" placeholder="Localidad">
+              <input name="localidad" type="text" class="form-control" placeholder="Localidad" required>
             </div>
             
             <div class="col-md-6 col-sm-6">
               <label for="apellidos">Apellidos</label>
-              <input name="apellidos" type="text" class="form-control" placeholder="Apellidos">
+              <input name="apellidos" type="text" class="form-control" placeholder="Apellidos" required>
               <label for="telefono">Teléfono</label>
-              <input name="telefono" type="tel" class="form-control" placeholder="Teléfono">
+              <input name="telefono" type="tel" class="form-control" placeholder="Teléfono" required>
               <label for="nacionalidad">Nacionalidad</label> 
-              <select id="nacionalidad" name="nacionalidad" class="form-control">
+              <select id="nacionalidad" name="nacionalidad" class="form-control" required>
                         <option value="Afghanistan">Afghanistan</option>
                         <option value="Åland Islands">Åland Islands</option>
                         <option value="Albania">Albania</option>
@@ -457,14 +457,14 @@ Making any change will effect all the pages(not posts) -->
                         <option value="Zimbabwe">Zimbabwe</option>
                       </select>
               <label for="sexo">Sexo</label>    
-              <select id="sexo" name="country" class="form-control">
+              <select id="sexo" name="sexo" class="form-control" required>
                 <option value="Masculino">Masculino</option>
                 <option value="Femenino">Femenino</option>
               </select>
               <label for="cp">C.P.</label>
-              <input name="cp" type="number" class="form-control" placeholder="C.P.">
+              <input name="cp" type="number" class="form-control" placeholder="C.P." required>
               <label for="provincia">Provincia</label>
-              <select id="provincia" name="provincia" class="form-control">              
+              <select id="provincia" name="provincia" class="form-control" required>              
                     <option value="alava">Álava</option>
                     <option value="albacete">Albacete</option>
                     <option value="alicante">Alicante</option>
@@ -838,15 +838,15 @@ Making any change will effect all the pages(not posts) -->
           <div class="row">
             <div class="col-md-6 col-sm-12">
               <label for="nombrehijo1">Nombre</label>
-              <input type="text" class="form-control w-100" id="nombrehijo1">
+              <input name="nombrehijo1" type="text" class="form-control" placeholder="nombrehijo1">
               <label for="fechanacimientohijo1">Fecha de Nacimiento</label>
               <input name="fechanacimientohijo1" type="date" class="form-control" placeholder="Fecha de Nacimiento">
             </div>
             <div class="col-md-6 col-sm-12">
               <label for="apellidoshijo1">Apellidos</label>
-              <input type="text" class="form-control w-100" id="apellidoshijo1">
+              <input type="text" class="form-control" placeholder="apellidoshijo1">
               <label for="sexohijo1">Sexo</label>    
-              <select id="sexohijo1" name="sexohijo1" class="form-control">
+              <select class="form-control" id="sexohijo1" name="sexohijo1">
                 <option value="Masculino">Masculino</option>
                 <option value="Femenino">Femenino</option>
               </select>
@@ -858,13 +858,13 @@ Making any change will effect all the pages(not posts) -->
           <div class="row">
             <div class="col-md-6 col-sm-12">
               <label for="nombrehijo2">Nombre</label>
-              <input type="text" class="form-control w-100" id="nombrehijo2">
+              <input type="text" class="form-control" placeholder="nombrehijo2">
               <label for="fechanacimientohijo2">Fecha de Nacimiento</label>
               <input name="fechanacimientohijo2" type="date" class="form-control" placeholder="Fecha de Nacimiento">
             </div>
             <div class="col-md-6 col-sm-12">
               <label for="apellidoshijo2">Apellidos</label>
-              <input type="text" class="form-control w-100" id="apellidoshijo2">
+              <input type="text" class="form-control" placeholder="apellidoshijo2">
               <label for="sexohijo2">Sexo</label>    
               <select id="sexohijo2" name="sexohijo2" class="form-control">
                 <option value="Masculino">Masculino</option>
@@ -878,13 +878,13 @@ Making any change will effect all the pages(not posts) -->
           <div class="row">
             <div class="col-md-6 col-sm-12">
               <label for="nombrehijo3">Nombre</label>
-              <input type="text" class="form-control w-100" id="nombrehijo3">
+              <input type="text" class="form-control" placeholder="nombrehijo3">
               <label for="fechanacimientohijo3">Fecha de Nacimiento</label>
               <input name="fechanacimientohijo3" type="date" class="form-control" placeholder="Fecha de Nacimiento">
             </div>
             <div class="col-md-6 col-sm-12">
               <label for="apellidoshijo3">Apellidos</label>
-              <input type="text" class="form-control w-100" id="apellidoshijo3">
+              <input type="text" class="form-control" placeholder="apellidoshijo3">
               <label for="sexohijo3">Sexo</label>    
               <select id="sexohijo3" name="sexohijo3" class="form-control">
                 <option value="Masculino">Masculino</option>
@@ -901,7 +901,7 @@ Making any change will effect all the pages(not posts) -->
           <div class="row">
             <div class="col-md-12 col-sm-12">
               <label for="iban">Cuenta bancaria para el cobro de las cuotas</label>
-              <input name="iban" type="text" class="form-control" placeholder="IBAN">
+              <input name="iban" type="text" class="form-control" placeholder="IBAN" required>
             </div>
           </div>
         </div>
@@ -1033,22 +1033,6 @@ $("#registroHijos").change(function() {
     $('#apellidoshijo1').attr('data-error', 'This field is required.');
 		$('#sexohijo1').attr('required', '');
     $('#sexohijo1').attr('data-error', 'This field is required.');
-    $('#nombrehijo2').attr('required', '');
-    $('#nombrehijo2').attr('data-error', 'This field is required.');
-    $('#fechanacimientohijo2').attr('required', '');
-    $('#fechanacimientohijo2').attr('data-error', 'This field is required.');
-    $('#apellidoshijo2').attr('required', '');
-    $('#apellidoshijo2').attr('data-error', 'This field is required.');
-		$('#sexohijo2').attr('required', '');
-    $('#sexohijo2').attr('data-error', 'This field is required.');
-    $('#nombrehijo3').attr('required', '');
-    $('#nombrehijo3').attr('data-error', 'This field is required.');
-    $('#fechanacimientohijo3').attr('required', '');
-    $('#fechanacimientohijo3').attr('data-error', 'This field is required.');
-    $('#apellidoshijo3').attr('required', '');
-    $('#apellidoshijo3').attr('data-error', 'This field is required.');
-		$('#sexohijo3').attr('required', '');
-    $('#sexohijo3').attr('data-error', 'This field is required.');
   } else {
     $('#registroHijosDiv').hide();
     $('#nombrehijo1').removeAttr('required');
@@ -1059,22 +1043,6 @@ $("#registroHijos").change(function() {
     $('#apellidoshijo1').removeAttr('data-error');
     $('#sexohijo1').removeAttr('required');
     $('#sexohijo1').removeAttr('data-error');
-    $('#nombrehijo2').removeAttr('required');
-    $('#nombrehijo2').removeAttr('data-error');
-    $('#fechanacimientohijo2').removeAttr('required');
-    $('#fechanacimientohijo2').removeAttr('data-error');
-    $('#apellidoshijo2').removeAttr('required');
-    $('#apellidoshijo2').removeAttr('data-error');
-    $('#sexohijo2').removeAttr('required');
-    $('#sexohijo2').removeAttr('data-error');
-    $('#nombrehijo3').removeAttr('required');
-    $('#nombrehijo3').removeAttr('data-error');
-    $('#fechanacimientohijo3').removeAttr('required');
-    $('#fechanacimientohijo3').removeAttr('data-error');
-    $('#apellidoshijo3').removeAttr('required');
-    $('#apellidoshijo3').removeAttr('data-error');
-    $('#sexohijo3').removeAttr('required');
-    $('#sexohijo3').removeAttr('data-error');
   }
 });
 $("#registroHijos").trigger("change");

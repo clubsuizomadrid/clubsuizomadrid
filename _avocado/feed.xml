@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-15T12:53:50+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club Suizo Madrid</title><subtitle>Página web de la Asociación Helvetia de Madrid.</subtitle><author><name>Enrique P</name></author><entry><title type="html">San Isidro</title><link href="http://localhost:4000/blog/san-isidro/" rel="alternate" type="text/html" title="San Isidro" /><published>2021-05-15T00:00:00+02:00</published><updated>2021-05-15T00:00:00+02:00</updated><id>http://localhost:4000/blog/san-isidro</id><content type="html" xml:base="http://localhost:4000/blog/san-isidro/">&lt;p&gt;¡Ven a celebrar hoy San Isidro en el Club Suizo!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-06-02T23:51:26+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club Suizo Madrid</title><subtitle>Página web de la Asociación Helvetia de Madrid.</subtitle><author><name>Enrique P</name></author><entry><title type="html">San Isidro</title><link href="http://localhost:4000/blog/san-isidro/" rel="alternate" type="text/html" title="San Isidro" /><published>2021-05-15T00:00:00+02:00</published><updated>2021-05-15T00:00:00+02:00</updated><id>http://localhost:4000/blog/san-isidro</id><content type="html" xml:base="http://localhost:4000/blog/san-isidro/">&lt;p&gt;¡Ven a celebrar hoy San Isidro en el Club Suizo!&lt;/p&gt;
 
 &lt;p&gt;Si quieres apuntarte a los talleres de claveles y farolillos, puedes escribirnos en el grupo de WhatsApp. Las plazas son limitadas. ¡ANÍMATE!&lt;/p&gt;
 
@@ -57,6 +57,9 @@
 
 &lt;p&gt;Con un 10% de descuento para hermanos o al contratar dos o más semanas (no acumulables).&lt;/p&gt;
 
+&lt;p&gt;Ejemplo sobre el precio de asociado, con jornada completa (120€):&lt;br /&gt;
+&lt;img src=&quot;/assets/images/posts/20210520-ejemplo-descuento.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;proceso-de-inscripción&quot;&gt;Proceso de Inscripción&lt;/h2&gt;
@@ -90,7 +93,7 @@
   &lt;li&gt;
     &lt;p&gt;Al menos siete (7) días antes del inicio del campamento:&lt;/p&gt;
     &lt;ul&gt;
-      &lt;li&gt;Rellenar y firmar el consentimiento informado &lt;a href=&quot;/assets/pdf/campamento_club_suizo.pdf&quot; download=&quot;&quot;&gt;(descargar)&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;Rellenar y firmar el consentimiento informado &lt;a href=&quot;/assets/pdf/Consentimiento_informado.pdf&quot; download=&quot;&quot;&gt;(descargar)&lt;/a&gt;.&lt;/li&gt;
       &lt;li&gt;Hacer un ingreso del concepto restante, es decir, descontando la reserva.&lt;br /&gt;
 &lt;b&gt;&lt;u&gt;Nota&lt;/u&gt;:&lt;/b&gt; Existe un 10% de descuento (no acumulable) por cada hermano/a, o segunda semana contratada.&lt;/li&gt;
       &lt;li&gt;Enviar el consentimiento informado y justificante del segundo pago a &lt;a href=&quot;mailto:clubsuizodigital@gmail.com&quot;&gt;clubsuizodigital@gmail.com&lt;/a&gt;&lt;/li&gt;
