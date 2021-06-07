@@ -22,4 +22,4 @@ Los más deportistas participaron en el torneo de pádel matutino.
 </div> -->
 
 <!-- <img width="300" height="300" class="team-image rounded-circle" src="/assets/images/00_Puesto_Doris_reducido.jpg" alt=""> -->
-{% include image-gallery.html folder="/assets/images/posts/20210529-adas-rastrillo-solidario" %}
+{% include image-gallery.html folder="/assets/images/posts/20210529-adas-rastrillo-solidario/" %}
