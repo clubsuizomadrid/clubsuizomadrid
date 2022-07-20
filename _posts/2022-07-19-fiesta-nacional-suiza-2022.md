@@ -46,14 +46,15 @@ Se podrá realizar el pago con tarjeta o en metálico en el propio Club, o media
 
 
 <br>
-  
-### Formulario de Inscripción  
-  
-  
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjExIqDO1vEDPzqcJIekzNSeDAnNTU88mgEnlMAbinNR4Syg/viewform?embedded=true" width="640" height="1432" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>  
-  
-  
+   
 ### Información y Reservas  
-
-Enviando un mail a [info@clubsuizomadrid.org](mailto:info@clubsuizomadrid.org) indicando el número de adultos y niños que asistirán, o llamando al teléfono [916505992](tlf:916505992)
-Mail:  Info@clubsuizomadrid.org
+   
+Enviando un mail a [info@clubsuizomadrid.org](mailto:info@clubsuizomadrid.org) indicando el número de adultos y niños que asistirán, o llamando al teléfono [916505992](tlf:916505992).  
+    
+<br>  
+   
+### Formulario de inscripción online  
+  
+  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjExIqDO1vEDPzqcJIekzNSeDAnNTU88mgEnlMAbinNR4Syg/viewform?embedded=true" width="640" height="1432" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>   
+  
