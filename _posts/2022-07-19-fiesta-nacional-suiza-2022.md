@@ -52,7 +52,7 @@ Se podrá realizar el pago con tarjeta o en metálico en el propio Club, o media
 Tlf:  91 6505992
 Mail:  Info@clubsuizomadrid.org
 
-rrr
+
 <!-- 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeYYHwgjDfUW0ONLweNYnNz_VbBy344QPKSZBBg_WxDmQVraw/viewform?embedded=true" width="640" height="1385" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
   
