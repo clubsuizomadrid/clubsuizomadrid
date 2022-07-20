@@ -34,7 +34,7 @@ La junta directiva de la Asociación Helvetia, la embajada de Suiza en España y
 
 ### Aportación  
   
-* Adultos 20€ (Asociados 20€)
+* Adultos 22€ (Asociados 20€)
 * Jóvenes (de 4 a 14 años inclusive) 10€
 
 Se podrá realizar el pago con tarjeta o en metálico en el propio Club, o mediante transferencia bancaria.
