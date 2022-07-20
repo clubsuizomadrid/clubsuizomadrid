@@ -1,0 +1,28 @@
+- title: Inicio
+  link: '/'
+
+- title: Club
+  dropdown:
+    - title: ¿Quiénes somos?
+      link: /quienes-somos/
+    - title: Horarios y Cuotas
+      link: /horarios-y-cuotas/
+    - title: Calendario
+      link: /calendario/
+    - title: Instalaciones
+      link: /instalaciones/
+    - title: Normativa
+      link: /normativa/
+
+- title: Admisiones
+  link: '/admisiones/'
+
+- title: Blog
+  link: '/blog/'
+
+- title: Links
+  link: '/links/'
+
+- title: Contacto
+  link: '/contacto/'
+

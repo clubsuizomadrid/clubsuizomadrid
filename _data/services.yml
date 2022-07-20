@@ -1,0 +1,14 @@
+- title:      CLUB
+  description:  Asociación Helvetia Madrid			
+  fa-icon:      fa-comments
+  link:         /historia
+
+- title:      COLEGIO
+  description:  Colegio Suizo Madrid (CSM)			
+  fa-icon:      fa-graduation-cap
+  link:         https://colegiosuizomadrid.edu.es/
+
+- title:      RESTAURANTE
+  description:  El Chalet Suizo			
+  fa-icon:      fa-cutlery
+  link:         http://www.elchaletsuizo.es/
