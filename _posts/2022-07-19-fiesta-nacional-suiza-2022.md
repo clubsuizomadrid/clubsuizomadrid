@@ -1,5 +1,5 @@
 ---
-title: "Fiesta Nacional Suiza <br> 1 de Agosto"
+title: "Fiesta Nacional Suiza <br> (celebración 30 de Julio)"
 image: /assets/images/posts/20220719-switzerland-national-day.png
 author: Gérald
 categories:
