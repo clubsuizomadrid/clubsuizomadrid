@@ -1,6 +1,6 @@
 ---
-title: "Mundial de Qatar <br>Brasil VS Suiza <br> 28 Noviembre 2022"
-image: /assets/images/posts/20221115-FIFA_World_Cup_Qatar.svg
+title: "FIFA World Cup Qatar<br>2022"
+image: /assets/images/posts/20221115-FIFA_World_Cup_Qatar.png
 author: Enrique
 categories:
     - Deportes
@@ -27,12 +27,3 @@ Os invitamos a disfrutar de los siguientes partidos clave de las Selecciones Esp
 <b>HOOOP SCHWIIIIZ - VAMOS ESPAÑA</b>
 </font>    
 
-  
-<br>  
-  
-<!--<div align="center">
-    <img src="/assets/images/posts/20220604-adas-rastrillo-solidario.jpg" alt="">
-</div> -->
-
-<!-- <img width="300" height="300" class="team-image rounded-circle" src="/assets/images/00_Puesto_Doris_reducido.jpg" alt=""> 
-{% include image-gallery.html folder="/assets/images/posts/20220604-adas-rastrillo-solidario/" %} -->
