@@ -1,5 +1,5 @@
 ---
-title: "Mercadillo benéfico Navideño de la Asociación de Damas Suizas <br> 25, 26 y 27 de Noviembre"
+title: "Bazar Benéfico de Navidad de la Asociación de Damas Suizas <br> 25, 26 y 27 de Noviembre"
 image: /assets/images/posts/20221116-adas-bazar-benefico-navidad/20221116-adas-bazar-benefico-navidad.jpg
 author: Enrique
 categories:
