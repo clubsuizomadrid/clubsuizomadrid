@@ -12,11 +12,11 @@ layout: post
   
 Os invitamos a disfrutar de los siguientes partidos clave de las Selecciones Española y Suiza, en la pantalla gigante del Club Suizo (sala chimenea) en las siguientes fechas:  
   
-    🇧🇷 Brazil - 🇨🇭 Suiza:  28-nov a las 17:00 horas  
+🇧🇷 Brazil - 🇨🇭 Suiza:  28-nov a las 17:00 horas  
   
-    🇯🇵 Japón - 🇪🇸 España:  1-dic a las 20:00 horas  
+🇯🇵 Japón - 🇪🇸 España:  1-dic a las 20:00 horas  
   
-    🇷🇸 Serbia - 🇨🇭 Suiza:  2-dic a las 20:00 horas  
+🇷🇸 Serbia - 🇨🇭 Suiza:  2-dic a las 20:00 horas  
    
   
 <br>  
