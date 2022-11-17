@@ -20,9 +20,6 @@ Os invitamos a disfrutar de los siguientes partidos clave de las Selecciones Esp
    
   
 <br>  
-  
-<font color="red"><b>HOOOP</b></font> SCHWIIIIZ - <font color="red"><b>ADELANTE</b></font><font color="yellow"><b> ESPAÑA</b></font>    
-  
 <font color="red">
 <b>HOOOP SCHWIIIIZ - VAMOS ESPAÑA</b>
 </font>    
