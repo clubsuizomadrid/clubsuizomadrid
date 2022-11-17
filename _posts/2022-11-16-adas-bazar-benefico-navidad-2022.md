@@ -7,7 +7,7 @@ categories:
 layout: post
 ---
 
-La <a href="https://www.facebook.com/adas.asociaciondamassuizas/">"Asociación de Damas Suizas"</a> organiza de nuevo el tradicional Bazar Benéfico de Navidad, que este año se celebrará los días:  
+La <a href="https://www.facebook.com/adas.asociaciondamassuizas/">"Asociación de Damas Suizas"</a> organiza de nuevo el tradicional Bazar Benéfico de Navidad, que este año se celebrará en el Club Suizo de Madrid los días:  
   
 * viernes 25  13:00-20:00
 * sábado 26  11:00-20:00
