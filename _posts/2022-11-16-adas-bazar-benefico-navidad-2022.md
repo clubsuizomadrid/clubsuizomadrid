@@ -17,7 +17,8 @@ La <a href="https://www.facebook.com/adas.asociaciondamassuizas/">"Asociación d
    
   
 Como siempre se podrán <b>_encargar Coronas de Adviento (WhatsApp 620 540 088)_</b>, comprar productos suizos, quesos y chocolate, comprar artesanía, adornos navideños y otros regalos originales, y habrá barbacoa, bar y salón de té.  
-    
+  
+<br>    
   
 ## PADELADAS - Torneo Benéfico de Pádel
   
