@@ -22,11 +22,11 @@ Como siempre se podrán <b>_encargar Coronas de Adviento (WhatsApp 620 540 088)_
   
 ## PADELADAS - Torneo Benéfico de Pádel
   
-El domingo 27 Nov de 10:00-14:00 se han reservado 4 pistas, para jugar todos contra todos:  
+El domingo 27 Nov de 11:00-15:00 tendremos PADELADAS en el Club Suizo de Madrid, con 3 juegos asegurados, regalo de inscripción, picoteo y bebida.  
   
-* Inscripción por WhatsApp (629 089 900)  
-* Mayores de 18 años: 15€ con patatitas y cerveza 
-* Menores de 18 años: 10€ con patatitas y refresco 
+Inscripciones por WhatsApp en el 629 089 900:
+* Adultos 15€
+* Estudiantes y menores 10€
   
 
 ¡Os esperamos!   
