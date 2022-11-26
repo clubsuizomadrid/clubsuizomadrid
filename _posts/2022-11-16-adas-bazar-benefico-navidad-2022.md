@@ -36,5 +36,5 @@ Inscripciones por WhatsApp en el 629 089 900:
 
 ![1](/assets/images/posts/20221116-adas-bazar-benefico-navidad/20221116-adas-bazar-benefico-navidad.jpg)   
    
-![1](/assets/images/posts/20221116-adas-bazar-benefico-navidad/20221116-padeladas.jpeg)  
+![1](/assets/images/posts/20221116-adas-bazar-benefico-navidad/20221116-padeladas.png)  
   
