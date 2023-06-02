@@ -1,5 +1,5 @@
 ---
-title: "Presentación concierto <br> autor José Manuel Pagán <br> <<El peso del vacío>>"
+title: "Presentación y concierto <br> José Manuel Pagán <br> El peso del vacío"
 image: /assets/images/posts/20230602-presentacion-libro-concierto/presentacion-helvetia.jpg
 author: Carmen
 categories:
