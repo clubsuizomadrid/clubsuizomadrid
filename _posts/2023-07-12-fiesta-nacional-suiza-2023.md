@@ -10,9 +10,9 @@ layout: post
     
 # Día de la Fiesta Nacional Suiza
   
-La junta directiva de la Asociación Helvetia, la embajada de Suiza en España y nuestro patrocinador oficial "Zurich Seguros", invitan a los asociados con sus familias y amistades, a la recepción para conmemorar el día de la Fiesta Nacional Suiza.  
-
-Se celebrará el sábado 29 de Julio de 2023, en los jardines del Club Suizo de Madrid.
+La junta directiva de la Asociación Helvetia y la embajada de Suiza en España, invitan a los asociados con sus familias y amistades a la recepción para conmemorar el <font color="red">día de la Fiesta Nacional Suiza</font> 🇨🇭    
+   
+Se celebrará el sábado 29 de Julio de 2023, en los jardines del Club Suizo de Madrid.  
       
 <br>                
 
