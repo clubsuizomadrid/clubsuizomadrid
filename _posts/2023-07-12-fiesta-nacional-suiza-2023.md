@@ -16,7 +16,7 @@ Se celebrará el sábado 29 de Julio de 2023, en los jardines del Club Suizo de 
       
 <br>                
 
-### Programa  
+## Programa  
   
 20:00
 * Aperitivo de quesos y vinos suizos ofrecidos por la Embajada de Suiza  
@@ -35,7 +35,7 @@ Se celebrará el sábado 29 de Julio de 2023, en los jardines del Club Suizo de 
 
 <br>
 
-### Aportación  
+## Aportación  
   
 * Adultos 22€ (Asociados 20€)
 * Jóvenes (de 4 a 14 años inclusive) 10€
@@ -50,13 +50,13 @@ Se podrá realizar el pago con tarjeta o en metálico en el propio Club, o media
 
 <br>
    
-### Información y Reservas  
+## Información y Reservas  
    
 Enviando un mail a [info@clubsuizomadrid.org](mailto:info@clubsuizomadrid.org) indicando el número de adultos y niños que asistirán, o llamando al teléfono [916505992](tlf:916505992).  
     
 <br>  
    
-### Formulario de inscripción online  
+## Formulario de inscripción online  
   
   
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSezm1a3EQU-sIjsK1HmZ8zF5KjLmdFSBtQ4i-IUUDFQQ6pJZQ/viewform?embedded=true" width="640" height="1432" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>     
