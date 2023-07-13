@@ -1,6 +1,6 @@
 ---
 title: "Fiesta Nacional Suiza <br> (celebración 29 de Julio)"
-image: /assets/images/posts/20220719-switzerland-national-day.png
+image: /assets/images/posts/20230712-FiestaNacionalSuiza-2023.png
 author: Carmen
 categories:
     - 1 Agosto
