@@ -1,6 +1,6 @@
 ---
 title: "Podcast Blum <br>ciudades suizas"
-image: /assets/images/posts/20220627-podcast-blum-ciudades-suizas.png
+image: /assets/images/posts/20220627-podcast-blum-ciudades-suizas.jpg
 author: Gerald
 categories:
     - Podcast Blum
