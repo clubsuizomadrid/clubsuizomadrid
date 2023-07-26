@@ -56,10 +56,12 @@ Enviando un mail a [info@clubsuizomadrid.org](mailto:info@clubsuizomadrid.org) i
     
 <br>  
    
+<!--
 ## Formulario de inscripción online  
   
   
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSezm1a3EQU-sIjsK1HmZ8zF5KjLmdFSBtQ4i-IUUDFQQ6pJZQ/viewform?embedded=true" width="640" height="1432" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>     
+-->
     
     
 
