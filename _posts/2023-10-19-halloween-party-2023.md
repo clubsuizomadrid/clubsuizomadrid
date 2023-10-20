@@ -34,7 +34,7 @@ Para subvencionar el picoteo y decoración, hemos establecido una pequeña cuota
 Puedes realizar el pago directamente en nuestra Administración o mediante transferencia bancaria.  
 
      
-   | Banco Sabadell (BIC BSABESBBXXX) | ES79 0081 0649 7600 0136 5940 |
+   | Banco Sabadell | ES79 0081 0649 7600 0136 5940 |
    | Beneficiario | Asociación Helvetia Club Suizo de Madrid |
    | Concepto | Halloween + nombre + apellidos solicitante |
   
