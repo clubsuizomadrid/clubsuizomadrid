@@ -31,7 +31,7 @@ Para subvencionar el picoteo y decoración, hemos establecido una pequeña cuota
 * invitado infantil 8€  
 
   
-Puedes realizar el pago directamente en nuestra Administración o mediante transferencia bancaria.  
+Puedes realizar el pago directamente en nuestra Administración, o mediante transferencia bancaria.  
 
      
    | Banco Sabadell | ES79 0081 0649 7600 0136 5940 |
