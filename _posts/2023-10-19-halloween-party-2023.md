@@ -8,7 +8,7 @@ layout: post
 ---
 
 ¡Celebra con nosotros un Halloween terrorífico!  
-
+   
 ¿Cuándo? El próximo Martes 31 de Octubre (recuerda que el Miércoles 1 es festivo) a partir de las 18:00 en el Club Suizo Madrid.  
 
 Habrá música, truco o trato para los más peques, <b>fiesta de disfraces para todas las edades</b>, picoteo y algo de bebida.  
@@ -20,15 +20,15 @@ Habrá música, truco o trato para los más peques, <b>fiesta de disfraces para 
 <button class="btn btn-danger">Alergias alimentarias</button> No olvides indicarnos cualquier alergia alimentaria conocida por parte de los asistentes e invitados.    
 
 <br>
-
-### Aportación  
-  
+    
+**APORTACIÓN**   
+   
 Para subvencionar el picoteo y decoración, hemos establecido una pequeña cuota de inscripción.  
 
-* adulto 10€
-* infantil 5€
-* invitado adulto 12€
-* invitado infantil 7€  
+* adulto 12€
+* infantil 6€
+* invitado adulto 15€
+* invitado infantil 8€  
 
   
 Puedes realizar el pago directamente en nuestra Administración o mediante transferencia bancaria.  
@@ -39,7 +39,8 @@ Puedes realizar el pago directamente en nuestra Administración o mediante trans
    | Concepto | Halloween + nombre + apellidos solicitante |
   
     
-    
+<br>
+        
 Nos vemos directamente ahí el 31 de Octubre, ¡¡¡jajajajaja!!!  
   
 🧙‍♀️ 🕷 🎃  ¿Truco o trato?    
