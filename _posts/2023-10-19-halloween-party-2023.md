@@ -1,6 +1,6 @@
 ---
 title: "Halloween Party <br> 31 de Octubre"
-image: /assets/images/posts/20231020-BrujaHalloween.png
+image: /assets/images/posts/20231019-BrujaHalloween.png
 description: Halloween Party
 categories:
     - Halloween
