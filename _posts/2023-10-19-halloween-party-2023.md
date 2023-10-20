@@ -13,7 +13,7 @@ layout: post
 
 Habrá música, truco o trato para los más peques, <b>fiesta de disfraces para todas las edades</b>, picoteo y algo de bebida.  
   
-Reserva tu plaza cuanto antes por email a [info@clubsuizomadrid.org](mailto:info@clubsuizomadrid.org) o llamando a nuestra Administración al [+34 91 650 5992](tlf:91 650 5992) en horario de atención de LMMJV de 10:00 h a 13:00 h., indicando el número de participantes (número de adultos/número de niños) y si desea participar en la organización del evento.
+Reserva tu plaza cuanto antes por email a [info@clubsuizomadrid.org](mailto:info@clubsuizomadrid.org) o llamando a nuestra Administración al [+34 91 650 5992](tlf:91 650 5992) en horario de atención de LMXJV de 10:00 h a 13:00 h., indicando el número de participantes (número de adultos/número de niños) y si desea participar en la organización del evento.
 
 
 <br>
