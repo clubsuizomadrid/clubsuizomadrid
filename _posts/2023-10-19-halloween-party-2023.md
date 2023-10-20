@@ -15,7 +15,7 @@ Habrá música, truco o trato para los más peques, <b>fiesta de disfraces para 
 
 <br>
 
-<button class="btn btn-danger">Atención, aforo limitado</button> (reserva tu plaza cuanto antes. Se permiten socios con invitados).  
+<button class="btn btn-danger">Atención, aforo limitado</button> Reserva tu plaza cuanto antes. Se permiten socios con invitados.  
   
 <button class="btn btn-danger">Alergias alimentarias</button> No olvides indicarnos cualquier alergia alimentaria conocida por parte de los asistentes e invitados.    
 
