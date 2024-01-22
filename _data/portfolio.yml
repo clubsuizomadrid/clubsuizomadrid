@@ -1,0 +1,15 @@
+- title: CLUB
+  category: Asociación Helvetia Madrid
+  image: /assets/images/portfolio/logoAH2.png
+  #image: /assets/images/portfolio/clubsuizo-chimenea-1.jpg
+  link: /quienes-somos/
+
+- title: RESTAURANTE
+  category: El Chalet Suizo
+  image: /assets/images/portfolio/logo-chalet-suizo.png
+  link: http://www.elchaletsuizo.es/
+
+- title: COLEGIO
+  category: Colegio Suizo Madrid (CSM)
+  image: /assets/images/portfolio/csm-logo-portfolio.png
+  link: https://www.colegiosuizomadrid.com
